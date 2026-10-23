@@ -16,4 +16,3 @@ const router = createHashRouter([
 export default function AppRouter() {
   return <RouterProvider router={router} />
 }
- 
