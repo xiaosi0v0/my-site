@@ -5,4 +5,3 @@ export default defineConfig({
   base: '/my-site/',
   plugins: [react()],
 })
- 
